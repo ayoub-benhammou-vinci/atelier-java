@@ -1,10 +1,14 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/misc.xml
+/modules.xml
+/vcs.xml
+/java-avance.iml
+
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
 
-dir_to_ignore/
