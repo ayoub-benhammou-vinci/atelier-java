@@ -20,7 +20,7 @@ class ProduitTest {
 
     @BeforeEach
     void setUp() {
-        //Initialisation des Prix
+        //Initialisation de chaque prix
         prixAucune = new Prix();
         prixAucune.definirPrix(1,20);
         prixAucune.definirPrix(10,10);
