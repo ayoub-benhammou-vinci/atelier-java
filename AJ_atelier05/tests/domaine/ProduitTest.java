@@ -44,6 +44,8 @@ class ProduitTest {
         assertThrows(IllegalArgumentException.class, () -> new Produit("","", null), "Paramètre vide ou null");
     }
 
+
+
     @DisplayName("Test des getters")
     @Test
     void testGetter() {
